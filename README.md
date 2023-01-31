@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash2819&label=Profile%20views&color=0e75b6&style=plastic" alt="akash2819" /> </p>
 
 <p align="left"> <a href="https://twitter.com/akash2k01" target="blank"><img src="https://img.shields.io/twitter/follow/akash2k01?logo=twitter&style=for-the-badge" alt="akash2k01" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **akashsharmapro44@gmail.com**
 
