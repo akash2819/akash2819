@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash2819&label=Profile%20views&color=0e75b6&style=plastic" alt="akash2819" /> </p>
 
-<p align="left"> <a href="https://twitter.com/akash2k01" target="blank"><img src="https://img.shields.io/twitter/follow/akash2k01?logo=twitter&style=for-the-badge" alt="akash2k01" /></a> </p>
+<p align="left"> <a href="https:" target="blank"><img src="https://img.shields.io/twitter/follow/akash2k01?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
